@@ -11,7 +11,7 @@ Php5+
 
 ##Configuration
 - Place the project files into your web directory.
-- Look for the file Config/config.php and change it for your needs. 
+- Look for the file Config/config.php and change it for your needs.
 - Navigate to project from your browser.
 
 * [api-wiki](http://redmine.iati.com/)
